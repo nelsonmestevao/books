@@ -11,8 +11,7 @@ googleAnalytics = ""
   description = "List of Books"
   copyright = "&copy; 2018 Nelson Estevão."
   sidebarAbout = [
-    "I am a Software Engineering Student at University of Minho.",
-    "I like puzzles, particulary, twisting puzzle."
+    "I am a Software Engineering Student at University of Minho."
   ]
   # Contact page
   email = "hello@estevao.xyz"
