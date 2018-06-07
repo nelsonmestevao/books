@@ -1,5 +1,5 @@
 baseurl = "https://books.estevao.xyz/"
-title = "Books • Nelson Estevão"
+title = "Nelson Estevão"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 googleAnalytics = ""
@@ -9,46 +9,26 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "List of Books"
-  copyright = "&copy;2018 Nelson Estevão."
+  copyright = "&copy; 2018 Nelson Estevão."
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a Software Engineering Student at University of Minho.",
+    "I like puzzles, particulary, twisting puzzle."
   ]
   # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "hello@estevao.xyz"
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+  # [[params.navlinks]]
+  # name = "About"
+  # url = "https://about.estevao.xyz"
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube" 
+  facebook      = "nelsonmestevao"
+  twitter       = "nelsonmestevao"
+  linkedin      = "nelsonmestevao"
+  instagram     = ""
+  github        = "nelsonmestevao"
