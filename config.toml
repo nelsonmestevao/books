@@ -4,6 +4,7 @@ theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 googleAnalytics = ""
 
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -16,6 +17,13 @@ googleAnalytics = ""
   # Contact page
   email = "hello@estevao.xyz"
 
+  [params.social]
+    facebook      = "nelsonmestevao"
+    twitter       = "nelsonmestevao"
+    linkedin      = "nelsonmestevao"
+    instagram     = ""
+    github        = "nelsonmestevao"
+
   # Nav links in the side bar
   # [[params.navlinks]]
   # name = "About"
@@ -24,10 +32,3 @@ googleAnalytics = ""
   # [[params.navlinks]]
   # name = "Get in touch"
   # url = "contact/"
-
-  [params.social]
-  facebook      = "nelsonmestevao"
-  twitter       = "nelsonmestevao"
-  linkedin      = "nelsonmestevao"
-  instagram     = ""
-  github        = "nelsonmestevao"
