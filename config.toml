@@ -2,13 +2,13 @@ baseurl = "https://books.estevao.xyz/"
 title = "Nelson Estevão"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
-googleAnalytics = ""
+googleAnalytics = "UA-102068106-4"
 
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "List of Books"
   copyright = "&copy; 2018 Nelson Estevão."
   sidebarAbout = [
