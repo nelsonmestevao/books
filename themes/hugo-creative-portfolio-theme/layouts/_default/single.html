@@ -1,4 +1,5 @@
 {{ define "main" }}
+<meta http-equiv="refresh" content="0; url={{ .Params.link }}">
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
@@ -6,7 +7,7 @@
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
          {{ .Content }}
-         {{ template "_internal/disqus.html" . }}
+          <p>You can read this book <a href="{{ .Params.link }}">here</a>.</p>
       </div>
     </div>
   </div>

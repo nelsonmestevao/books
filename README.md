@@ -1,4 +1,7 @@
+[netlify]: https://www.netlify.com
+
 # Books
+[![Deploy](https://www.netlify.com/img/global/badges/netlify-light.svg)][netlify]
 
 ## Thanks
 
