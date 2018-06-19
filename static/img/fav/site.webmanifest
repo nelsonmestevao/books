@@ -1,0 +1,19 @@
+{
+    "name": "Books \u2022 Nelson Estev\u00e3o",
+    "short_name": "Books \u2022 Nelson Estev\u00e3o",
+    "icons": [
+        {
+            "src": "/img/fav/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/fav/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#4fb0c6",
+    "background_color": "#4fb0c6",
+    "display": "standalone"
+}
