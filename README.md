@@ -1,7 +1,6 @@
-[netlify]: https://www.netlify.com
-
 # Books
-[![Deploy](https://www.netlify.com/img/global/badges/netlify-light.svg)][netlify]
+
+This website is build by Hugo. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. This website is deploy with Netlify.
 
 ## Thanks
 
